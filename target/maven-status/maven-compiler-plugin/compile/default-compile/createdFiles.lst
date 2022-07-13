@@ -1,0 +1,8 @@
+br/unifor/agendaquarkus/resource/ContactResource.class
+br/unifor/agendaquarkus/dto/ContactDto.class
+br/unifor/agendaquarkus/service/impl/ServiceImpl.class
+br/unifor/agendaquarkus/model/Contact.class
+META-INF/panache-archive.marker
+br/unifor/GettingResource.class
+br/unifor/agendaquarkus/service/ContactService.class
+br/unifor/agendaquarkus/repository/ContactRepository.class

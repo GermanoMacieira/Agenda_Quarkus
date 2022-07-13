@@ -1,0 +1,7 @@
+/home/germano/Downloads/01 Programacao/Agenda-Quarkus/agenda-contatos-V8-OK/src/main/java/br/unifor/agendaquarkus/service/ContactService.java
+/home/germano/Downloads/01 Programacao/Agenda-Quarkus/agenda-contatos-V8-OK/src/main/java/br/unifor/agendaquarkus/model/Contact.java
+/home/germano/Downloads/01 Programacao/Agenda-Quarkus/agenda-contatos-V8-OK/src/main/java/br/unifor/GettingResource.java
+/home/germano/Downloads/01 Programacao/Agenda-Quarkus/agenda-contatos-V8-OK/src/main/java/br/unifor/agendaquarkus/service/impl/ServiceImpl.java
+/home/germano/Downloads/01 Programacao/Agenda-Quarkus/agenda-contatos-V8-OK/src/main/java/br/unifor/agendaquarkus/dto/ContactDto.java
+/home/germano/Downloads/01 Programacao/Agenda-Quarkus/agenda-contatos-V8-OK/src/main/java/br/unifor/agendaquarkus/repository/ContactRepository.java
+/home/germano/Downloads/01 Programacao/Agenda-Quarkus/agenda-contatos-V8-OK/src/main/java/br/unifor/agendaquarkus/resource/ContactResource.java
